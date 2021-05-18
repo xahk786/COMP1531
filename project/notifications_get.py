@@ -134,13 +134,7 @@ def notifications_get_v1(token):
                                                     "notification_message": f"{reactor_handle} reacted to your message in {platform_name}"   
                                                    }
                             notifications.append(notification_reacted)
-                            
-                            
-                               
-    
-    
-    
-    
+
     notifications.reverse()
     
     final_output = []
