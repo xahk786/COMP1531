@@ -1,6 +1,7 @@
 ## COMP1531 Major Project
 
 Some of the functions that I completed as part of the major (group) project. 
+
 Overall project mark : 84/100 
 
 ## Spec 
